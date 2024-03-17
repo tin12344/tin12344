@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Agustin Vargas Quesada</h1>
-<h3 align="center">Me apasiona el desarrollo front-end, actualmente me encuentro desarrollando habilidades para el análisis de datos</h3>
+<h3 align="center">Me apasiona el desarrollo front-end, actualmente me encuentro aprendiendo diferentes frameworks</h3>
 
-- Estoy aprendiendo **R para el análisis de datos.**
+- Estoy aprendiendo **Angular.**
 
 - Mis proyectos se enecuentran en el portafolio [https://github.com/tin12344/Mi-Portafolio.git](https://github.com/tin12344/Mi-Portafolio.git)
 
