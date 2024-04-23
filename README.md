@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Agustin Vargas Quesada</h1>
-<h3 align="center">Me apasiona el desarrollo front-end, actualmente me encuentro aprendiendo diferentes frameworks</h3>
-
-- Estoy aprendiendo **Angular.**
+<h3 align="center">Me apasiona el desarrollo front-end, actualmente quiero obtener mas conocimiento en el area de Data Science</h3>
 
 - Mis proyectos se enecuentran en el portafolio [https://github.com/tin12344/Mi-Portafolio.git](https://github.com/tin12344/Mi-Portafolio.git)
 
