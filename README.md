@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, Mi nombre es Agustin Vargas Quesada</h1>
-<h3 align="center">Me apasiona el desarrollo front-end, actualmente quiero obtener mas conocimiento en el area de Data Science</h3>
+<h1 align="center">Hello 👋, My name is Agustin Vargas Quesada</h1>
+<h3 align="center">I am passionate about front-end development, currently I want to obtain more knowledge in the area of ​​Data Science</h3>
 
-- Mis proyectos se enecuentran en el portafolio [https://github.com/tin12344/Mi-Portafolio.git](https://github.com/tin12344/Mi-Portafolio.git)
+- Some of my projects are in my portfolio: [https://github.com/tin12344/Mi-Portafolio.git](https://github.com/tin12344/Mi-Portafolio.git)
 
-- Me pueden contactar al correo **vargasquesada16@hotmail.com**
+- You can contact me on the email **vargasquesada16@hotmail.com**
 
 <p align="left">
 </p>
