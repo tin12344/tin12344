@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, My name is Agustin Vargas Quesada</h1>
-<h3 align="center">I am passionate about front-end development, currently I want to obtain more knowledge in the area of ​​Data Science</h3>
+<h3 align="center">I am passionate about develop apps, currently I studying Data Science</h3>
+
+Welcome to my portfolio! Here, I showcase a variety of projects that reflect my skills and passion for software development and data science. From building web applications that integrate social media APIs, to working with machine learning algorithms and data processing techniques, I am always eager to tackle new challenges and enhance my knowledge.
 
 - Some of my projects are in my portfolio: [https://github.com/tin12344/Mi-Portafolio.git](https://github.com/tin12344/Mi-Portafolio.git)
 
